@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rafael Souza Calearo",
+      "email": "rafaelcalearo@gmail.com",
+      "surge": "Frontend",
+      "date": "05/11/1986"
+    },
+    {
+      "name": "Pedro Afonso",
+      "surge": "Backend",
+      "date": "22/02/1987",
+      "email": "pedro@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Alessandra Vizeu",
+      "surge": "Frontend",
+      "date": "06/01/1990",
+      "email": "alessandra.vize@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Gustavo Borges",
+      "surge": "Backend",
+      "date": "01/07/2000",
+      "email": "gustavo@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gabriel Calearo",
+      "surge": "Frontend",
+      "date": "08/07/1991",
+      "email": "gabi.calearo@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Francine Matias",
+      "surge": "Frontend",
+      "date": "22/02/1987",
+      "email": "fran@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Raul Pedron",
+      "surge": "Backend",
+      "date": "28/03/1969",
+      "email": "raul@bol.com.br",
+      "id": 7
+    },
+    {
+      "name": "Pablo Tavares",
+      "surge": "Beckend",
+      "date": "28/03/1969",
+      "email": "tavares@terra.com.br",
+      "id": 8
+    },
+    {
+      "name": "Tania Araujo",
+      "surge": "Frontend",
+      "date": "09/12/1956",
+      "email": "tania.araujo@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Carlos Augusto",
+      "surge": "Backend",
+      "date": "30/01/1995",
+      "email": "carlosaugusto@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Suzana Coimbra",
+      "surge": "Frontend",
+      "date": "06/09/1990",
+      "email": "suzana.coimbra@hotmail.com",
+      "id": 11
+    },
+    {
+      "name": "Luiza Schimtz",
+      "surge": "Backend",
+      "date": "09/12/1956",
+      "email": "luiza@terra.com.br",
+      "id": 12
+    },
+    {
+      "name": "Renato Correa",
+      "surge": "Beckend",
+      "date": "28/03/1969",
+      "email": "correa@yahoo.com.br",
+      "id": 13
+    },
+    {
+      "name": "Clodoaldo Oliveira",
+      "surge": "Backend",
+      "date": "28/03/1969",
+      "email": "clodoaldo@hotmail.com",
+      "id": 14
+    },
+    {
+      "name": "Vera Muller",
+      "surge": "Backend",
+      "date": "06/09/1990",
+      "email": "vera.muller@hotmail.com",
+      "id": 15
+    },
+    {
+      "name": "Fabiana Almeida",
+      "surge": "Backend",
+      "date": "01/07/2000",
+      "email": "almeida@bol.com.br",
+      "id": 16
+    },
+    {
+      "name": "José Paulo",
+      "surge": "Backend",
+      "date": "09/12/1956",
+      "email": "jose.p@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "José Analio",
+      "surge": "Backend",
+      "date": "02/05/1975",
+      "email": "analio@terra.com.br",
+      "id": 18
+    },
+    {
+      "name": "Gerson Correia",
+      "surge": "Backend",
+      "date": "09/12/1956",
+      "email": "gerson@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Diego Duarte",
+      "surge": "Backend",
+      "date": "06/09/1990",
+      "email": "duarte@terra.com.br",
+      "id": 20
+    }
+  ]
+}
