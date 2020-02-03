@@ -1,0 +1,27 @@
+
+    /*componentDidMount() {
+        let url = "http://localhost:3001/users"
+        fetch(url).then(resp => resp.json()).then(data => {
+            let users = data.map((user, index) => {
+                return (
+                    <div key={index}>
+                        <p>{user.id}</p>
+                        <p>{user.name}</p>
+                        <p>{user.surge}</p>
+                        <p>{user.date}</p>
+                    </div>
+                )
+            })
+            this.setState({users: users});
+        })
+    }*/
+
+    /*render() {
+        return (
+            <div className="container">
+                {this.state.users}
+            </div>
+        )
+    }*/
+
+CODIGO QUE DEU CERTO P/ LISTAR USUARIOS NO TESTE DA NAVE.RS
